@@ -1,6 +1,6 @@
 # Programming Languages Popularity Trends
 
-This repository contains a data analysis project that visualizes the popularity of various programming languages over time. The visualizations cover data from July 2004 to January 2023 and include a range of chart types to illustrate the trends and distributions of programming language popularity metrics.
+This repository contains a data analysis project that visualizes the popularity of various programming languages over time. The visualizations cover data from July 2004 to January 2005 and include a range of chart types to illustrate the trends and distributions of programming language popularity metrics.
 
 ## Visualizations Included
 
