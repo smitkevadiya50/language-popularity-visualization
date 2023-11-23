@@ -37,10 +37,12 @@ Contributions to this project are welcome. You can contribute in several ways:
 - Improve the existing analysis code.
 
 Please feel free to fork the repository and submit a pull request with your contributions.
-![alt text](https://github.com/smitkevadiya50/language-popularity-visualization/blob/main/output.png)
 
 ## Contact
 
 If you have any questions or comments about this project, please open an issue in this repository.
 
 Thank you for visiting this repository, and I hope you find the visualizations informative and insightful!
+
+## OutPut
+![alt text](https://github.com/smitkevadiya50/language-popularity-visualization/blob/main/output.png)
